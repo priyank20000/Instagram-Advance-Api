@@ -1,0 +1,27 @@
+////////////////////////////////////////////////////////////////////// Account ///////////////////////////////////////
+/////// 1) publish account : 
+1) mein private account ko access tab tak nhi ker skata jab tak mein usko follow requsest na bheju or voh private accout uskjo accpet na kera tab tak nahi derkh sakta
+2) publish account mein jo bhi follow kerta hai uska dekhaga just message aayiga 
+3)or isko bena follow kiya koi bhi post dekh sakta hai like: image , reel dekh sakta hai
+4) publish accunt se priv ate ker sakta hai user 
+4) publish account private account ki dp, bio or bhar se uska followers he dekh sakta hai 
+
+
+////2) privat account :
+ 1) privat accunt mein uska follower ka seva or koi nhi dekh sakta 
+2) ager  usko koi folllow kerta hai to uska pass cancle or accpet ka option hoga 
+3) only follower he dekh sakta hai
+4) private account se publish account mein convert ker sakta hai user
+
+
+//////////////////////////////////// Accunt type ///////////////////////////////////////
+///// 1) personal account :
+1) personal account mein voh log aata hai jo pubish and private account hote hai 
+2) personal se business account mein convert ker sakta hai 
+3) personal account ka pass shop ka option hoga ja se voh karid sakta hai product
+
+
+//////2) business account :
+ 1) business acount kabhi apna ap ko private account mein convert nhi ker sakta 
+2) business bhi peronal mein ker sakta hai 
+3) shop deashboard ka option hoga ja per business account marktaing ker sakta hai apni product beach sakta hai 
